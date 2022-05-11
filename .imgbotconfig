@@ -1,4 +1,5 @@
 {
     "schedule": "daily", // daily|weekly|monthl
-    "aggressiveCompression": "false" // true|false
+    "aggressiveCompression": "false", // true|false
+    "minKBReduced": 4096
 }
